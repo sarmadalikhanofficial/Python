@@ -1,5 +1,3 @@
-**README.md**
-
 **Introduction**
 
 This Python code analyzes a dataset of traffic accidents in Barcelona, Spain, and implements Dijkstra's algorithm to find the shortest path between two locations based on the number of accident victims involved. The code utilizes the pandas and NetworkX libraries for data manipulation and graph creation, respectively.
